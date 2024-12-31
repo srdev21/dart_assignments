@@ -40,6 +40,7 @@ class Students extends Person{
   }
 
 }
+//========D===========
 
 class Teacher extends Person{
 
@@ -67,6 +68,7 @@ class Teacher extends Person{
 
 }
 
+//========E===========
 
 class StudentManagementSystem {
   static void main(){
